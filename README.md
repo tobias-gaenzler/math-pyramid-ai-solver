@@ -12,7 +12,7 @@ Additionally, the values in the math pyramid blocks are restricted to integers b
 The math pyramid starts with fixed values for three of the blocks and the other three blocks need to be filled with correct values.   
 The blocks are indexed, starting in the lower left corner:  
 <img alt="Math pyramid input indices" src="https://github.com/tobias-gaenzler/math-pyramid-ai-solver/blob/main/field_indices_input_x.png?raw=true" height="200" />
-<img alt="Math pyramid solution indices" src="https://github.com/tobias-gaenzler/math-pyramid-ai-solver/blob/main/field_indices_y.png?raw=true" height="200" />
+<img alt="Math pyramid solution indices" src="https://github.com/tobias-gaenzler/math-pyramid-ai-solver/blob/main/field_indices_solution_y.png?raw=true" height="200" />
 
 
 Data is represented as follows, where _x_ is the input (values provided at start, unknown values replaced by zero)
